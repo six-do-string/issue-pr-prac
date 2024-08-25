@@ -1,5 +1,5 @@
 ## 🛰️ Issue Number
- 
+resolve #{이슈번호}
 ## 🪐 작업 내용
  
 ## 📚 Reference

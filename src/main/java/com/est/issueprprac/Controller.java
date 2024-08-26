@@ -1,4 +1,4 @@
 package com.est.issueprprac;
 
-public class Controller {sss
+public class Controller {
 }

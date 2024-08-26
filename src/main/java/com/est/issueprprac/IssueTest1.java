@@ -8,4 +8,5 @@ public class IssueTest1 {
 		System.out.println("test2");
 		System.out.println("test2");
 	}
+
 }
